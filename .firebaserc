@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflix-ole",
+    "ole3": "netflix-ole"
+  },
+  "targets": {},
+  "etags": {}
+}
